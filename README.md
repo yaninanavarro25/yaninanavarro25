@@ -8,15 +8,15 @@
 ### Vivo en Valparaíso 🌱
 ### Acabo de terminar un bootcamp Fullstack Javascript
 ### Estudié Tecnico en Administración de Empresas
-🔭 Actualmente estoy trabajando en Independiente
-🌱 Actualmente estoy aprendiendo Análisis de Datos
-👯 Busco colaborar en proyectos relacionados con desarrollo web y bases de datos
-🤔 Estoy buscando ayuda con mejorar mis habilidades en administración de bases de datos
-💬 Pregúntame sobre desarrollo Fullstack JavaScript, bases de datos y administración empresarial
-📫 Cómo contactarme: yaninan.navarroy@gmail.com o perfil de LinkedIn
-😄 Pronombres: Ella
-⚡ Dato curioso: Tengo experiencia en dos campos muy diferentes: la administración de empresas y 
-la enfermería, lo que me da una perspectiva única en la resolución de problemas.
+- 🔭 Actualmente estoy trabajando en Independiente
+- 🌱 Actualmente estoy aprendiendo Análisis de Datos
+- 👯 Busco colaborar en proyectos relacionados con desarrollo web y bases de datos
+- 🤔 Estoy buscando ayuda con mejorar mis habilidades en administración de bases de datos
+- 💬 Pregúntame sobre desarrollo Fullstack JavaScript, bases de datos y administración empresarial
+- 📫 Cómo contactarme: yaninan.navarroy@gmail.com o perfil de LinkedIn
+- 😄 Pronombres: Ella
+- ⚡ Dato curioso: Tengo experiencia en dos campos muy diferentes: la administración de empresas y 
+- la enfermería, lo que me da una perspectiva única en la resolución de problemas.
 
 
  
